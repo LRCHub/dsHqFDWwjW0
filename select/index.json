@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Someone New",
+  "base_artist": "Laufey",
+  "createdAt": "2025-12-30T05:58:36.869426Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Someone New (Flexifinger's radio edit)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/01_Someone_New_(Flexifinger's_radio_edit)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/02_Someone_New_BANKS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "Helena Deland",
+      "has_synced": true,
+      "path": "select/03_Someone_New_Helena_Deland.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "Caroline Rose",
+      "has_synced": true,
+      "path": "select/04_Someone_New_Caroline_Rose.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Someone New (Flexifingers Radio Edit)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/05_Someone_New_(Flexifingers_Radio_Edit)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "someone new",
+      "artist": "Christian French",
+      "has_synced": true,
+      "path": "select/06_someone_new_Christian_French.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/07_Someone_New_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "someone new",
+      "artist": "elijah woods",
+      "has_synced": true,
+      "path": "select/08_someone_new_elijah_woods.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "someone new",
+      "artist": "Elijah Woods",
+      "has_synced": true,
+      "path": "select/09_someone_new_Elijah_Woods.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/10_Someone_New_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "Paul Kelly",
+      "has_synced": true,
+      "path": "select/11_Someone_New_Paul_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "Eskobar feat. Heather Nova",
+      "has_synced": true,
+      "path": "select/12_Someone_New_Eskobar_feat._Heather_Nova.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Someone New",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/13_Someone_New_Hozier.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Someone New",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Someone_New_Laufey.txt"
+    }
+  ]
+}
